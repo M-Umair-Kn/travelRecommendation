@@ -1,0 +1,98 @@
+[
+  {
+    "destination": "Paris",
+    "country": "France",
+    "category": "City Break",
+    "description": "The City of Light draws millions of visitors every year with its unforgettable ambiance. Of course, the divine cuisine and vast art collections deserve some of the credit as well.",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.8
+  },
+  {
+    "destination": "Bali",
+    "country": "Indonesia",
+    "category": "Beach",
+    "description": "Bali is a living postcard, an Indonesian paradise that feels like a fantasy. Soak up the sun on a stretch of fine white sand, or commune with the tropical creatures as you dive along coral ridges.",
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.7
+  },
+  {
+    "destination": "Kyoto",
+    "country": "Japan",
+    "category": "Cultural",
+    "description": "The former imperial capital of Japan, Kyoto is a city of temples, shrines, and traditional gardens. It's known for its bamboo forests, traditional wooden houses, and geisha district. Visit the famous Kinkaku-ji (Golden Temple) for a breathtaking view.",
+    "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.9
+  },
+  {
+    "destination": "Santorini",
+    "country": "Greece",
+    "category": "Island",
+    "description": "Santorini is the supermodel of the Greek islands, a head-turner whose face is instantly recognizable around the world: multicolored cliffs soar out of a sea-drowned caldera, topped by drifts of whitewashed buildings.",
+    "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.7
+  },
+  {
+    "destination": "New York City",
+    "country": "United States",
+    "category": "City Break",
+    "description": "A city that never sleeps, New York is a melting pot of cultures with iconic sites like Times Square, Central Park, and the Statue of Liberty. The city's energy is palpable.",
+    "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.6
+  },
+  {
+    "destination": "Serengeti National Park",
+    "country": "Tanzania",
+    "category": "Safari",
+    "description": "Home to the greatest wildlife spectacle on Earth – the Great Migration. The Serengeti is a vast ecosystem where millions of animals follow the rains in search of fresh grass.",
+    "image": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.9
+  },
+  {
+    "destination": "Maldives",
+    "country": "Maldives",
+    "category": "Beach",
+    "description": "The Maldives is a tropical paradise with crystal clear waters, white sandy beaches, and overwater bungalows. It's perfect for those seeking luxury, relaxation, and world-class snorkeling and diving experiences.",
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.9
+  },
+  {
+    "destination": "Angkor Wat",
+    "country": "Cambodia",
+    "category": "Cultural",
+    "description": "The largest religious monument in the world, Angkor Wat is a temple complex that showcases the impressive architecture of the Khmer Empire. The temple is the perfect fusion of creative ambition and spiritual devotion.",
+    "image": "https://images.unsplash.com/photo-1524613032530-449a5f627c3c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.8
+  },
+  {
+    "destination": "Cancun",
+    "country": "Mexico",
+    "category": "Beach",
+    "description": "Cancun is known for its spectacular white sand beaches, turquoise waters, and vibrant nightlife. With ancient Mayan ruins nearby and excellent opportunities for water sports, it's a perfect beach destination for all types of travelers.",
+    "image": "https://images.unsplash.com/photo-1552074284-5e84d87aee2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.5
+  },
+  {
+    "destination": "Borobudur Temple",
+    "country": "Indonesia",
+    "category": "Cultural",
+    "description": "As the world's largest Buddhist temple, Borobudur is a magnificent example of Indonesian architecture. Built in the 9th century, this temple features more than 2,500 relief panels and 504 Buddha statues. Watching the sunrise from here is an unforgettable experience.",
+    "image": "https://images.unsplash.com/photo-1580877854178-95067799acfb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.7
+  },
+  {
+    "destination": "Amalfi Coast",
+    "country": "Italy",
+    "category": "Beach",
+    "description": "The Amalfi Coast is a stunning stretch of coastline with colorful cliffside villages, beautiful beaches, and dramatic views. Enjoy delicious Italian cuisine while taking in the spectacular vistas of the Mediterranean Sea.",
+    "image": "https://images.unsplash.com/photo-1533587851505-d119e13fa0d7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.8
+  },
+  {
+    "destination": "Varanasi",
+    "country": "India",
+    "category": "Cultural",
+    "description": "One of the oldest continuously inhabited cities in the world, Varanasi is considered the spiritual capital of India. The city is known for its ghats along the River Ganges and numerous temples, including the famous Kashi Vishwanath Temple dedicated to Lord Shiva.",
+    "image": "https://images.unsplash.com/photo-1561436599-1cffb57f2d32?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    "rating": 4.6
+  }
+] 
